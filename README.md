@@ -25,7 +25,7 @@ make
 ```bash
 make clean
 ```
-###To run the project and check memory:
+### To run the project and check memory:
 
 ```bash
 valgrind --leak-check=full --show-leak-kinds=all --trace-children=yes -s ./travelMonitor -m 3 -b 100 -s 1000 -i input_dir

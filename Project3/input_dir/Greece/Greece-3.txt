@@ -1,0 +1,9 @@
+3 FRjgcAJJ PNMUouBilzN Greece 72 Common-Flu YES 01-11-1971
+587 CwNGEqVzWN jszYdfon Greece 23 Small-Pox NO
+302 QCSIgttSQ hXXju Greece 6 H1N1 NO
+736 kLbdMwpYmH Ekx Greece 113 Ebola NO
+449 myVlF fIR Greece 3 Boubonic-Plague NO
+774 cUROuRusUM BHAgSta Greece 9 Small-Pox YES 10-12-2012
+390 PVTKcPRsFSkX ietZqlegKHKt Greece 5 Boubonic-Plague NO
+249 GNIj UYgHZbUUHLwD Greece 23 Rabies YES 05-05-2015
+122 qbx wISWtptCzd Greece 8 Small-Pox YES 27-10-2015

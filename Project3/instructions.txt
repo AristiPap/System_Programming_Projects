@@ -1,0 +1,7 @@
+/travelRequest 430 22-10-2017 Greece Spain COVID-18
+/travelRequest 363 22-10-2014 Greece Iceland H1N1
+/travelRequest 363 22-10-2014 Iceland UK Common-Flu
+/travelRequest 363 20-07-2009 Iceland UK Common-Flu
+/travelStats Common-Flu 22-05-1900 15-06-2021
+/searchVaccinationStatus 161
+/exit

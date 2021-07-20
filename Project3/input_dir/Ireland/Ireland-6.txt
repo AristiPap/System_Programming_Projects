@@ -1,0 +1,7 @@
+24 HVNpAHwbzcpD QvZfMwf Ireland 117 Common-Flu YES 25-07-1911
+275 TQeiJTS LsbhvkomAd Ireland 82 Hepatitis-B NO
+405 AClf qicvvsNEJqyL Ireland 80 Ebola YES 07-09-1971
+586 zUFXOgqNF wSGJGFoIm Ireland 103 Rabies NO
+635 qvwEcomTL Hloj Ireland 104 Rabies NO
+280 AiykMY jTuu Ireland 75 COVID-19 YES 05-11-2000
+32 OHJtrBgKHDQ NRQaZauvVwnS Ireland 49 Boubonic-Plague NO

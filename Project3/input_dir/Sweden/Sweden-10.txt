@@ -1,0 +1,9 @@
+301 RNlgoFZ NvOgXq Sweden 97 Hepatitis-A YES 07-03-1926
+97 ynVeDPp TzEwVwkCGT Sweden 90 Common-Flu YES 19-11-1944
+655 nxjcQjt UqiKdG Sweden 76 Boubonic-Plague NO
+283 XnEAy fTKnDRhBjQrT Sweden 119 Common-Flu YES 13-12-1950
+817 yYd AYPBKBrcprT Sweden 64 COVID-19 YES 15-09-1982
+400 FwogPcrRbd JhIbGd Sweden 5 Rabies NO
+821 erXSqlCi TpeVOPHDtM Sweden 37 Hepatitis-B NO
+560 CExI iFeABttUT Sweden 45 COVID-19 YES 07-01-1998
+370 UMfUMD mearTKaFV Sweden 58 HIV NO

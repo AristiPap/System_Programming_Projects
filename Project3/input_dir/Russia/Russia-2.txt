@@ -1,0 +1,9 @@
+730 WWcuDpBWs LxQSoLFDBu Russia 61 Hepatitis-A NO
+923 OjxHBPAU iMBPTXZoQJx Russia 38 Common-Flu YES 18-07-1983
+677 ctwqHIdiyzFr yyNbFTxvm Russia 83 Hepatitis-A YES 28-10-2010
+104 YAMwXKnQYi MDECfpVKzFrT Russia 40 Boubonic-Plague YES 03-05-1997
+110 AZqkj EWbL Russia 16 Common-Flu YES 02-06-2010
+70 YWKQCPgrEzX QJXv Russia 23 Hepatitis-B NO
+516 yyBkNnQqIBx zKcbhmMlAGt Russia 69 COVID-18 YES 17-08-2016
+522 idWiWgfKhmBj SBbvzZV Russia 86 Rabies NO
+577 tRQhVtDjTAot kusCdStF Russia 117 Hepatitis-B NO

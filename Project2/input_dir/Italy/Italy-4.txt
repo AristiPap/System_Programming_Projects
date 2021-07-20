@@ -1,0 +1,9 @@
+823 lUVI qFqKEAU Italy 75 Boubonic-Plague NO
+909 dPVqYwTN tcBIvC Italy 118 Common-Flu YES 15-06-1908
+261 yvkx lHP Italy 98 COVID-19 NO
+763 pGdIKbiIX TURuvNdwaBGZ Italy 35 Boubonic-Plague NO
+137 sHIvBrTT Pva Italy 71 Hepatitis-B NO
+831 wGxUS fpuY Italy 46 Small-Pox YES 23-10-1978
+596 EMZ oCexyO Italy 37 HIV NO
+882 nAKP VxvWHKPOI Italy 93 COVID-19 NO
+617 HPHDwf ONdRAOXYkEF Italy 58 Hepatitis-B YES 07-07-1984

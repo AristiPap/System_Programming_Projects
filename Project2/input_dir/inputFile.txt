@@ -1,0 +1,1000 @@
+65 PkrDjeRsYLrF ZfGiEX France 48 Hepatitis-B YES 23-12-1979
+925 sCFJqmise eSGK Spain 52 HIV YES 11-01-1975
+547 CrHTOkYzFgJq GdonPVc Iceland 48 Small-Pox YES 13-12-1976
+640 JkaUlAwrW UHPK Spain 81 COVID-18 YES 04-12-1989
+531 muWOvul VlObu Italy 61 Hepatitis-A YES 01-05-2019
+730 WWcuDpBWs LxQSoLFDBu Russia 61 Hepatitis-A NO
+757 TbBS dqAjuTjhtnX France 61 COVID-18 NO
+452 EtnQvlgMOYkf xMIhpEurDg Italy 61 Hepatitis-A NO
+407 bmgsMp NHUPpQ Sweden 75 COVID-19 YES 16-05-1980
+292 sUGkWsD qUkYR Iceland 75 Small-Pox NO
+823 lUVI qFqKEAU Italy 75 Boubonic-Plague NO
+696 UGJ PghaKQ Germany 87 COVID-18 YES 23-10-1990
+422 GpMjhsn TieNBdipdv France 87 Common-Flu NO
+92 hPwn DRRNQpTJM France 31 Ebola YES 09-03-2004
+403 cAFspd knbkFOUDB Russia 93 Ebola YES 14-01-1928
+469 HDEZCYnu rtyctKf France 83 Rabies YES 20-10-1982
+314 XUhUBjsH nqWtrFea Spain 120 COVID-18 YES 26-11-2014
+77 BGEOKJcUyn PykqtYRbmw France 120 Small-Pox NO
+680 SrWiEcKkv KmyiWaMcsEbk Germany 86 Rabies YES 16-07-1998
+315 YQqr cpPHDPxsKRe Ireland 86 Common-Flu NO
+501 CTIQhJuFbb VhAE UK 21 Ebola YES 26-02-2002
+52 TfIQ JiusvJ Iceland 45 H1N1 YES 15-04-1998
+138 myDL kjVO Greece 75 Boubonic-Plague YES 12-03-2019
+993 zOBteTGEel aAfl Iceland 9 Ebola YES 09-11-2018
+877 lQZOVnw jZhQsiXp Norway 89 Rabies YES 18-02-1974
+910 mVUz eRoRjlSg Russia 89 Common-Flu NO
+332 peBfZQdsTpd FqfNt Switcherland 89 Ebola NO
+766 bWaG lOtKljdHrJ Ireland 49 Small-Pox YES 06-04-1981
+3 FRjgcAJJ PNMUouBilzN Greece 72 Common-Flu YES 01-11-1971
+659 PotHKbHj ydyGWMb Russia 72 Small-Pox NO
+940 DxLqGvgwK Cmib Spain 72 H1N1 NO
+108 xEkFKydbJh lsGWZJTYWmnV Norway 40 HIV YES 28-01-1986
+842 xqjlR wseNEgzYnnx Spain 61 HIV YES 21-07-1997
+717 NOZwvyH ALHvd France 61 Small-Pox YES 13-10-2018
+471 aTQMdeQSY kSYLNBhCkW UK 15 Hepatitis-B YES 18-09-2019
+956 AXAMi ryVVqAFq Russia 15 Hepatitis-A NO
+515 kyzfMmDMinS qpISmm Sweden 47 Hepatitis-A YES 10-10-2004
+561 qkCiB XjVaqIJzf UK 47 COVID-19 NO
+84 jCNPriss zLddNM Norway 47 Boubonic-Plague NO
+604 IvcsU MbufxTHpVCy Russia 47 Common-Flu NO
+284 ImHsXBXfMP EDw Italy 24 Boubonic-Plague YES 15-10-2015
+457 VAFy RHJh Switcherland 120 Rabies YES 06-05-1954
+67 tqMgwl aUUyL Italy 120 Ebola NO
+372 yZOcVgYsldlc kFRTigMeps Greece 120 H1N1 NO
+342 rtxP zxAMJZ Russia 120 Hepatitis-A NO
+753 hOfgHwPjj BKtUcDGeN Germany 120 Common-Flu NO
+578 hKnRct UVf Switcherland 87 Rabies YES 12-06-1969
+780 BJT gnWjmVpMpmjc Spain 87 Boubonic-Plague NO
+900 uWWwjKGklqzR lFzUvN Greece 61 H1N1 YES 07-05-1973
+109 bNEyMbLcz LPtCAM Russia 48 COVID-18 YES 27-07-2006
+356 yogHZJCNZRA ZBvUGZWlgJDr Norway 48 Hepatitis-A NO
+129 ralXownXHGQt paiVmbOym Switcherland 48 Small-Pox NO
+568 wgc EcKWWqsu Switcherland 21 Hepatitis-A YES 03-12-2002
+957 RSZuxF dZoLef Germany 88 Boubonic-Plague YES 05-01-1950
+843 Dnf NtkWJ Spain 88 Common-Flu NO
+82 wzL obFSddVeQoE Ireland 91 Ebola YES 21-09-1993
+351 DiiNizSKdAy GWHspgCMp France 91 HIV NO
+438 BceVZX TJuFK Iceland 75 COVID-18 YES 20-01-1979
+360 OmJ McPVlWAhvrX Germany 75 COVID-19 NO
+493 qTU opniFwhO France 39 Small-Pox YES 04-06-1999
+321 JhrNWuG aRfzBnBkZcCC Ireland 59 COVID-18 YES 19-07-1981
+482 LAxAXwu Ngvt Sweden 95 HIV YES 14-02-1977
+608 ZBF tOt Norway 95 H1N1 NO
+24 HVNpAHwbzcpD QvZfMwf Ireland 117 Common-Flu YES 25-07-1911
+300 qcpqMsHGt dUmvfxn Russia 117 COVID-18 NO
+539 CxRlFdqSlibL KiO Russia 117 COVID-18 NO
+710 QFMfwfgjq EyXv France 100 Common-Flu YES 06-10-2003
+259 nCxq egVxk Sweden 100 Small-Pox NO
+162 Xzkm RApGWHg Sweden 26 Hepatitis-A YES 27-10-1997
+972 IXnpLFznsU RpcpLmAxd UK 26 H1N1 NO
+143 MSipxkLS sEPSZFZnF Ireland 88 Ebola YES 01-10-1966
+772 jKfXo EkcNF Switcherland 101 H1N1 YES 13-02-1983
+432 yrSxBzUpuhFh qDLr Germany 39 Ebola YES 07-06-1989
+506 jXyGVbLCN oafA UK 39 Common-Flu NO
+322 ypLqBFZu YTatuhxPVBUg France 10 COVID-19 YES 26-11-2013
+965 RQnPAqVlWC HmUMOtfJ Iceland 10 H1N1 NO
+27 DJgCypUIFNKn DEFxBLliOv Norway 10 Boubonic-Plague NO
+756 pEhRYQk nsORkhyAXD Ireland 46 Rabies YES 14-12-2014
+923 OjxHBPAU iMBPTXZoQJx Russia 38 Common-Flu YES 18-07-1983
+777 MJHZCzQsQaa xjagcN Sweden 38 HIV NO
+417 OUdinrhsZPk BFgcMXSRy France 69 Hepatitis-A YES 08-07-1969
+458 VzyVpZBYig SNEtV Spain 75 Rabies YES 05-01-1947
+737 ePRlF OKNT Norway 9 Ebola YES 01-10-2016
+318 trnIMjV NSjhfTlvwFz Russia 103 H1N1 YES 19-06-1941
+38 hdZsUTn twh Iceland 116 COVID-18 YES 14-12-1952
+51 IHl ClaWoyX Ireland 57 COVID-18 YES 02-07-2013
+505 KsoJlRzMMYua XldynCDGl Italy 23 Small-Pox YES 22-12-2021
+853 ozMxsQDCLkn jIbhAD Iceland 23 Hepatitis-A NO
+764 egSkKioaDrkA KPMcnB Spain 64 COVID-18 YES 17-11-1961
+419 TxjnDe xake Italy 69 Common-Flu YES 03-03-1957
+556 DcoWQaeUN BUJDaRRAxUg Norway 4 COVID-18 YES 06-12-2018
+673 GDpCpIrGE RhkGDPqPmBsk Iceland 83 Hepatitis-A YES 07-10-2005
+892 KeWuZJMmU sAV Norway 11 Hepatitis-A YES 21-07-2012
+579 OzCATOl MhPwrS UK 11 Rabies YES 03-10-2020
+933 kUxA XAIqHX Spain 11 COVID-19 NO
+856 LdzGHXrjHIS dikQUzpPVL France 38 COVID-19 YES 04-11-2019
+630 vVhdg OIbcAmR Norway 38 Hepatitis-A NO
+648 kPfJICYjfyX tGLngo Spain 92 Rabies YES 08-12-2021
+215 OJmZokmCwaLA jSDWj Russia 25 Hepatitis-B YES 09-07-2006
+799 ixdrQVSiUmz jfXWBbKld UK 34 Hepatitis-A YES 07-09-2010
+286 tQlnBeC Cihb Germany 120 COVID-19 YES 09-11-1916
+190 JcPHa uGPPckemvjo UK 120 Hepatitis-B NO
+46 lXUIQjo LYj Sweden 84 Hepatitis-A YES 28-03-1994
+848 oAkHYKJ ixomjJzxqiey Italy 24 Hepatitis-B YES 24-01-2003
+526 qORR UUVwGAhBh Greece 24 Hepatitis-A NO
+707 PpFYkA ddUv Italy 38 Boubonic-Plague YES 26-09-1992
+667 jMQLBOcYNH xaoxmEL Greece 38 Boubonic-Plague NO
+409 OghOeeWigv aYyTzDZQgEDn Greece 60 Boubonic-Plague YES 16-01-1995
+988 RbIftTqYgNFP ILmLY France 60 COVID-19 NO
+837 IBrLDOUaf UlnsJHvsNNw Iceland 67 Rabies YES 24-06-1971
+169 ztwgIzfRU HlBZAGSLiwL UK 84 Ebola YES 19-08-1970
+2 EDjQxtcHiFxz BSburX Italy 42 Rabies YES 08-01-1996
+827 rSdR iNChCjoEdf France 42 Ebola NO
+434 skwGTwKGUnit RKYQl Ireland 42 HIV NO
+678 MKZGnysByY fhesBjPKSp Germany 50 Boubonic-Plague YES 28-01-1984
+156 NcyYMsOFB CigEVFGW Germany 50 Rabies NO
+99 nsWl WZOajFnvE Russia 90 HIV YES 02-10-1979
+803 truCc pAixrHm Greece 90 Rabies NO
+937 RxVMSUnQepF INZckZ Russia 90 Rabies NO
+354 FlUZrRDaAzMf EPNqzqsc France 90 Hepatitis-B NO
+278 FYg VTNmfo Sweden 82 Rabies YES 10-12-1947
+563 PMi vkfcMtUTaFGS Iceland 82 COVID-19 NO
+301 RNlgoFZ NvOgXq Sweden 97 Hepatitis-A YES 07-03-1926
+661 eHenvxLF btfjs Norway 3 COVID-19 YES 19-12-2018
+983 shTIl qByPDNzlLxF Iceland 3 Boubonic-Plague NO
+612 rlSzg HfTljGzLsbDg Sweden 3 COVID-18 NO
+688 ZpMQgQaXmeoQ OqXRAR Ireland 39 H1N1 YES 07-10-1986
+107 KrNYTwfUKmn HFWNkMeQSEuw Greece 39 H1N1 NO
+807 QSWrqBT eOlzJ France 119 COVID-18 YES 28-08-1974
+262 xIeIFFSKH kVAEfPRrPB UK 74 H1N1 YES 23-11-2006
+430 mYcJsFfdp BgZQ Greece 4 COVID-18 YES 01-11-2017
+330 KNshZvw XisFu Iceland 76 Hepatitis-B YES 27-10-1983
+33 BgwS SczkgbtZe Ireland 92 H1N1 YES 23-03-1965
+976 hwhfbk aDVUHwIbs Iceland 97 HIV YES 12-07-1951
+605 chRiyOgCoR OZdmLWQKEvd UK 97 COVID-18 NO
+226 AAIWfLFaidZg mIhyVft Greece 97 Hepatitis-B NO
+131 jVzNUkrkYTn DzfaKUITqbV France 59 H1N1 YES 07-05-1975
+421 BnHMi LMILFbEJH Russia 23 Ebola YES 06-08-2012
+587 CwNGEqVzWN jszYdfon Greece 23 Small-Pox NO
+221 eSxHRydKv iZNh Spain 112 Rabies YES 10-11-1921
+917 PPovqBVbzB TUCh Switcherland 112 Ebola NO
+796 QgGZew PESSFajs Switcherland 112 HIV NO
+727 ePLC lvvA France 49 HIV YES 20-05-2014
+470 xpLUAOesAer cHQsxABqOzd Germany 49 Ebola NO
+411 EpXsqnZVXhu fwpsKEBWeaU Sweden 9 Common-Flu YES 20-10-2014
+771 XpwbUkGqT szusUILZnHg Norway 9 H1N1 NO
+177 PmVneX ZanX Greece 111 COVID-19 YES 24-11-1912
+762 niRMNom VpNnSBgfe Russia 41 Boubonic-Plague YES 14-12-1981
+534 ypDXx ARtRXViUsv Greece 41 H1N1 YES 07-04-1983
+429 LbMNaNi cShyctawHO Iceland 41 COVID-19 NO
+266 hjwRWAKHdDl VdGfNW France 41 Ebola NO
+662 ovArCmdGUNQU XdnFvrkOg UK 25 Small-Pox YES 07-08-2009
+428 ugxa utKVmkE France 112 Small-Pox YES 19-02-2001
+157 vvokM hhZ UK 10 Small-Pox YES 18-02-2017
+441 JTOyxWHndwR BeBDXtlQlESo Ireland 10 Rabies NO
+91 FRGD ZcJMhf Spain 10 Hepatitis-B NO
+676 ktzCzRhasGX qOTtViJ Sweden 10 Rabies NO
+114 nDIZBBc sJbMDcaGEGoP Iceland 98 Hepatitis-B YES 03-02-1927
+721 HKLnTfPS hgALpYPFJkC Norway 98 H1N1 NO
+987 ouaLfVvfx bSG Russia 15 COVID-19 YES 13-09-2017
+341 lOmvWKKNRvkn XrYIFhgalQd Norway 110 Hepatitis-A YES 05-08-1987
+81 hRvcHS EuQc Sweden 117 H1N1 YES 12-04-2013
+758 fXE AhtfFrIprcIM Switcherland 94 Common-Flu YES 05-07-1943
+726 PSxx kQZAnZv Norway 94 Rabies NO
+194 zjR CZCxZo Russia 94 Rabies NO
+220 mImAtkXUJbCq aQNbo Ireland 91 COVID-19 YES 15-07-2005
+566 ioMEyPNosoej Nwsnatp UK 91 Hepatitis-A NO
+338 tNbdfK UaPU Switcherland 91 H1N1 NO
+72 PPrrhMKB vGKsnYjbYhn Switcherland 21 Hepatitis-A YES 11-10-2011
+712 Wopg mHExKryKitM Switcherland 93 H1N1 YES 19-01-2002
+973 QmF cnqMOnRYxg Ireland 100 H1N1 YES 01-02-1928
+1 mvzCG EdLGhdxItte Spain 9 Hepatitis-B YES 13-10-2013
+938 tJR ouJcowPyvRma France 72 Rabies YES 18-12-2017
+810 gTlNDdNdHO qbgvsAmQw Russia 82 COVID-19 YES 07-01-1949
+657 wbEDaLCOG cEuTISLoS Germany 82 HIV NO
+275 TQeiJTS LsbhvkomAd Ireland 82 Hepatitis-B NO
+520 lwhnHad FCybCEvRct Italy 82 Hepatitis-B NO
+440 pakoDqBktmVT XVJSN Sweden 82 Boubonic-Plague NO
+606 oOfCqUx QkS Iceland 19 COVID-19 YES 05-10-2007
+210 ZvjWki RsdDklbl France 19 Common-Flu NO
+369 kqkljZG KaDG France 116 H1N1 YES 10-06-1948
+793 vuGg flSIaLtNa Switcherland 116 Ebola NO
+714 ZNvhtdL jKKKd Iceland 116 COVID-19 NO
+677 ctwqHIdiyzFr yyNbFTxvm Russia 83 Hepatitis-A YES 28-10-2010
+350 yKgZk DFVaHCWjMrr Switcherland 115 Boubonic-Plague YES 12-08-2002
+592 BNCxWv cFX France 76 COVID-18 YES 05-05-1968
+95 HyJESBnR pPTBTKyL UK 76 HIV NO
+145 LpTHCnPO iYuKkth Italy 76 COVID-19 NO
+325 egl wAwzGrVkdti Germany 76 H1N1 NO
+924 ubEDWnF UXESsacpglfG Ireland 81 Small-Pox YES 22-06-1991
+186 GlTWKO iowpSv France 81 Boubonic-Plague NO
+413 JPa hws Spain 85 H1N1 YES 07-10-1986
+863 vwBeNr DpugTOh France 85 HIV NO
+408 LVfd axkXmorhPX Ireland 8 HIV YES 07-05-2017
+798 gyqSUG uFieFYdqMve Greece 88 Common-Flu YES 25-12-1995
+393 nJkYgttjUQSc zpo Norway 88 Small-Pox NO
+42 utNBom VWFOIGO Switcherland 88 HIV NO
+697 oGHoOZBbPK rspFi Norway 94 Common-Flu YES 15-11-1994
+621 bMzlXdIgfE XOTzezjuW Ireland 76 HIV YES 08-07-1946
+722 WYrTHxwbD TAuMMCJgH Russia 76 Ebola NO
+175 qjAAaOyG MlQbPrKNv Iceland 109 HIV YES 08-02-1937
+150 rTSUIZqob uMAismardqK Germany 104 Rabies YES 05-03-2002
+365 oMxNySIKUkn xIXsdg Iceland 104 Rabies NO
+255 HQuT xxETyp Ireland 81 COVID-18 YES 20-11-1978
+909 dPVqYwTN tcBIvC Italy 118 Common-Flu YES 15-06-1908
+691 RoFWZHveYY LCPIXLpYLB Spain 35 Boubonic-Plague YES 11-05-1993
+850 JmNwUEO mSzAnHcfvQwM Spain 35 Rabies NO
+473 aekZ ZCJzu Russia 44 COVID-19 YES 24-12-1978
+682 bmhRFaD HgbOzBBLxCE Germany 44 Small-Pox NO
+913 tieBpUMx kkt Switcherland 11 COVID-18 YES 03-10-2015
+824 TwGoL ixEKtMFnnSOf Switcherland 11 Boubonic-Plague NO
+639 ZvgKwLCkRZog rlPlqdP France 11 Hepatitis-A NO
+571 jDIQq EHkAroddRQvH Italy 114 Ebola YES 05-03-1962
+178 sLUw PnoDdJ Switcherland 28 Hepatitis-B YES 14-07-1997
+426 tFvyxuaBDA VjZByI Iceland 58 Ebola YES 08-09-1974
+363 xBXdxCX JEGtqUD Iceland 70 Common-Flu YES 20-07-2009
+295 EmHuseesQCa ihpmHTLNhraS France 111 HIV YES 27-08-1988
+364 IXiX eLUUPDCgnvOA Sweden 111 H1N1 NO
+459 qoMtI WgMX Germany 11 COVID-19 YES 06-12-2014
+928 JWlPa xzsYBlgKJZP France 103 HIV YES 02-08-1976
+386 KuIA vERUgwZ Iceland 69 Small-Pox YES 13-11-1996
+991 OlwypsPlJjIZ vvAzcRTT Sweden 4 COVID-19 YES 18-09-2020
+500 ygwbJWuv uNPdt Sweden 4 Hepatitis-A NO
+739 JFZG UyrtKvHUSd Germany 27 Small-Pox YES 14-01-2006
+98 aCbEmR zQh Greece 27 H1N1 NO
+265 VKSeVGhOVT JedReRfUnnL Spain 28 Ebola YES 04-10-2000
+833 GsukupoN aeuUezAWZFd Ireland 59 HIV YES 17-12-2004
+136 cgMYfesyV FxruZehIJF Norway 55 Rabies YES 16-09-2006
+31 Bxlep KNXOztNkQ Spain 55 HIV NO
+995 vTJL JrvTV Switcherland 55 Ebola NO
+741 Qsryq ZjsUnlmKV Iceland 72 HIV YES 04-05-1969
+588 Tlk yCZntlYwlV Norway 52 Ebola YES 28-06-1986
+329 LvddFV PXR Switcherland 52 Hepatitis-B NO
+35 tVkx XNCVOANIbRdN Germany 110 Small-Pox YES 03-06-2018
+450 CRcsZ hhGJC Switcherland 110 Hepatitis-B NO
+656 ekLH fkz UK 113 Boubonic-Plague YES 08-08-1971
+41 NCx PXBxtzrEx Italy 117 Hepatitis-A YES 20-07-1963
+395 DyteHzPb ExDze Switcherland 47 HIV YES 22-12-1997
+192 xOoef rizcK UK 47 Small-Pox NO
+244 WwD sWqgOzREKMAU Spain 47 Ebola NO
+20 ByCl JfZyeys UK 47 Hepatitis-B NO
+904 FeHEoadXkRc DqkSiexjkdjZ Greece 99 Common-Flu YES 15-06-1981
+595 amueWGnUplQp ljgiYybcvOXs Sweden 99 H1N1 NO
+574 nGikcHHlp niyhWYk Italy 99 Boubonic-Plague NO
+839 eaSMYgfDWJb vNVwgeBer Ireland 115 HIV YES 13-09-1996
+690 BME YMo UK 115 COVID-18 NO
+943 gclfoByDZHb NooSDB France 80 Ebola YES 15-01-1944
+870 NJVqWFPzSf WGWtVUrDTue Germany 94 H1N1 YES 28-06-1981
+120 bnJBlPfIP fPIinRBGWL Germany 94 Hepatitis-B NO
+511 zVvQEHB iYSSJwaCHOg Greece 60 Rabies YES 17-07-1962
+435 PKWVruXMFVR hcXf Iceland 60 Hepatitis-A NO
+463 JvhBJemP evZKrgiAIa Greece 47 Hepatitis-A YES 09-01-2019
+55 Jnwn uFALqBAuPD Norway 112 H1N1 YES 15-06-2020
+9 RPAvnjSTI ocQVmTPB Spain 90 Common-Flu YES 14-08-1942
+97 ynVeDPp TzEwVwkCGT Sweden 90 Common-Flu YES 19-11-1944
+442 CPOzjozamS XnMFec UK 2 Hepatitis-A YES 25-04-2019
+809 vBUzmKYS slwkOCFMtCOI Italy 88 COVID-19 YES 10-01-1962
+616 MfuFO xGxBAe Greece 88 Small-Pox NO
+256 SKqxIivbHMPN hqCdfHKRLO Greece 88 Hepatitis-A NO
+684 pSqSMxbyOUfE DCEpkXmDYA Switcherland 90 COVID-18 YES 21-09-1982
+700 NlTULqnFmM cvFJ France 90 Hepatitis-A NO
+223 UAn ZBCpMpaTBnU Germany 90 Hepatitis-A NO
+859 exqqec dUxPeSDIQfp Switcherland 11 Boubonic-Plague YES 03-02-2021
+685 aJRIywIUFAV zKA Ireland 11 Boubonic-Plague NO
+201 OSPPuhxyeSTq anDXsj UK 11 COVID-19 NO
+490 GXbqMHwIgXV invdXveiT Spain 11 Boubonic-Plague NO
+885 GibnfsWtox IPpKqbldUSf Ireland 60 Small-Pox YES 02-11-2000
+789 oNDKXk tOzZAeJVm Iceland 35 Small-Pox YES 22-03-1994
+10 MJZxBRhNH jOjTQxpeK Russia 49 Small-Pox YES 18-12-2021
+172 bOSD SZk Norway 31 Ebola YES 05-11-2000
+118 maG IrtDbZ Germany 50 Small-Pox YES 11-10-2000
+773 tNTTFp rcE Sweden 77 Hepatitis-A YES 09-09-1977
+590 HCDQmqz ugnLrtTZpBX Iceland 77 Boubonic-Plague NO
+381 dFhQze tkmzbAUj Russia 101 Boubonic-Plague YES 07-10-1973
+387 ucmyYwzf VvdQgRQqd Italy 120 Rabies YES 28-06-1969
+888 hnIuM LAUlAADM Germany 44 Hepatitis-B YES 14-10-2013
+15 ApGYySh sNG Iceland 44 Boubonic-Plague NO
+437 gTGdkwQT SMgilcsnvYK UK 6 Hepatitis-B YES 17-04-2018
+225 kyFIyM OARSCCkDUVl Germany 6 Rabies NO
+302 QCSIgttSQ hXXju Greece 6 H1N1 NO
+60 mTe beZnCrZO Norway 105 HIV YES 24-08-1927
+649 ljayr FMxloLR UK 114 Rabies YES 20-09-2004
+975 WczR MRUdmEPSlq UK 53 HIV YES 28-04-2021
+567 jehAbsnlCDjI sclT Italy 61 Common-Flu YES 19-08-1961
+921 UKglI ocPIAGiLXlw Iceland 106 COVID-19 YES 04-12-1937
+339 QAIBex bcWEUcnQGB Switcherland 106 COVID-18 NO
+584 mZLpmLWnuy DLXVguS UK 106 COVID-19 NO
+290 PGBKDrgLuJ kaF Switcherland 106 Hepatitis-B NO
+30 UuFPRyxMLf suSaD France 116 Ebola YES 06-04-1981
+811 EplouTqOvT lHlQui Switcherland 115 Boubonic-Plague YES 05-11-1969
+816 xqyE vrLvvHlMT Sweden 115 Small-Pox NO
+152 CYNGiW GPieywg Greece 115 Ebola NO
+451 WZbGdRcz wQfuBzFqqdJk Sweden 115 H1N1 NO
+540 YLcFtNo lPQFB Greece 115 Common-Flu NO
+984 MmNdZpzdwaJ OuzqvnxBVAh Sweden 10 H1N1 YES 22-11-2021
+523 NhLuOKZh CNNkZBqebJCV UK 43 COVID-18 YES 22-11-2016
+542 XyC mpAPQYbU Germany 43 Rabies NO
+752 fKiVZ Empln Greece 79 Common-Flu YES 27-02-1942
+66 lESgeYZM YSJQhoSwD Greece 79 Rabies NO
+931 UIGnKdl PQBNaM Sweden 79 Boubonic-Plague NO
+352 DgooAAPN KftnO Norway 79 Common-Flu NO
+113 qQmaiQgrELLM AQTHVjP Sweden 79 COVID-19 NO
+89 NCOLVu dOFCctsSXIl Italy 79 H1N1 NO
+101 CzAVkeivI GXSL Italy 79 H1N1 NO
+864 IebArFBL WmRvwSBI Iceland 79 Common-Flu NO
+695 noutck GIJ Germany 93 Hepatitis-B YES 27-07-1999
+126 xlaHizz vLzkwD Greece 93 Ebola NO
+901 FdozNgmlxGe ZgsBiniV Russia 117 COVID-19 YES 21-04-2014
+546 wciTa nWcdbhbhJ Ireland 117 Hepatitis-A NO
+382 KeLS WvTlL Russia 117 Boubonic-Plague NO
+405 AClf qicvvsNEJqyL Ireland 80 Ebola YES 07-09-1971
+271 OnqN KcASCSXFIAro Switcherland 80 COVID-18 NO
+903 yrzLCeEF PWIlCbCHcS Sweden 80 Boubonic-Plague NO
+862 JJoUQi iZe Norway 80 Hepatitis-A NO
+59 SCUsNOI NlXp Norway 17 H1N1 YES 08-02-2005
+398 qBAdDhsPd KnnqdN Spain 17 HIV NO
+236 UOR xFjxkzSdk Spain 45 Rabies YES 21-04-2014
+402 tJJbQzxSFWn UVvL Germany 45 Hepatitis-B NO
+239 bYMb wYBvIdu Ireland 45 HIV NO
+564 mUaNt zxOfQnjrY Ireland 45 Common-Flu NO
+555 LoDYmKsZdxC sqooUqliXz Switcherland 45 HIV NO
+198 JqGBPuYMGv LRqxXqsiQjWv Germany 45 Hepatitis-A NO
+368 dYshuBXUHx kiXxiynRql Ireland 45 Boubonic-Plague NO
+548 fpEiDEUNazVr AEQSk Switcherland 45 Small-Pox NO
+536 Gvt BxyhKMlqWr Ireland 23 Common-Flu YES 28-08-2002
+252 mbTrEA gzDHTt Germany 75 Small-Pox YES 28-09-1980
+627 mOQ fGGeQAtzKq Norway 39 Small-Pox YES 10-12-2014
+618 bZFQeu yfbYhiGkm Greece 102 COVID-19 YES 11-05-1919
+866 qyCflIP GZgeWMPyCwm Germany 102 HIV NO
+213 GPIzqakdE EUNzcfxKH Russia 102 Common-Flu NO
+23 scFcjnWGeq mGyULgcv Germany 102 H1N1 NO
+414 SBojUMi rhFb Sweden 72 Hepatitis-B YES 01-03-1963
+591 KRDKfWbQ KmnXtHU Germany 81 Common-Flu YES 18-11-1970
+39 OVphCguY fLTpMqQIpKRr Iceland 81 Hepatitis-B NO
+768 AGWDUDxmU gDUqudTyn Switcherland 81 Rabies NO
+423 MJN YbMhDyPXks UK 9 HIV YES 09-05-2014
+124 pwOaJANS qnFNRNUBrcBJ Spain 49 HIV YES 19-02-2011
+886 dJVYXPAKh yMlY Italy 49 HIV NO
+502 NYwwCHllpR TWgq France 49 HIV NO
+181 sFoOjD QIEV Spain 49 Common-Flu NO
+285 FtoVewYFn hknN Ireland 98 Ebola YES 05-05-1979
+765 CrZnH rktmCNl Norway 98 Small-Pox NO
+628 pLivNnpZX SwaoFmq Iceland 98 COVID-18 NO
+261 yvkx lHP Italy 98 COVID-19 NO
+343 Cpkw PDRSSL Greece 98 Rabies NO
+614 hUJSONHJeY grWGH Sweden 21 COVID-18 YES 25-02-2004
+293 cuRENtOlcue VYwxFkt Greece 21 Boubonic-Plague NO
+783 FqgV wrMCAm Russia 21 Small-Pox NO
+93 QiZgsDP vbz Ireland 76 COVID-18 YES 10-07-1961
+899 qQVu tlIsqXwxs UK 76 HIV NO
+655 nxjcQjt UqiKdG Sweden 76 Boubonic-Plague NO
+645 VGVEMkKq ClZneW Greece 76 Small-Pox NO
+907 qtqHE zqpdDtBiaeQ Spain 76 Ebola NO
+234 CxED NawNtu Ireland 76 Hepatitis-A NO
+357 dWVPHOoeO ghFI Norway 76 COVID-18 NO
+779 fRBPAQy YdFkOKKfNLr Iceland 76 Rabies NO
+832 zdtt rxHUvcjyk UK 76 Common-Flu NO
+380 hmQqDcaK GFkcM UK 50 Hepatitis-A YES 22-01-1991
+509 esDYiZIWry ImB Germany 50 Ebola NO
+650 MtXPTe ktV Sweden 35 Ebola YES 18-10-1997
+235 oUSXTaWtxE ZJACPcH Germany 35 COVID-18 NO
+385 cYLerpbcTPAp XVdUBm Italy 24 H1N1 YES 14-05-1999
+36 YYDwChroqM qLokfkXqLput France 24 H1N1 NO
+460 hGFFo ZRtMNyXDC Germany 113 Hepatitis-A YES 26-08-1990
+447 XlCRc rDojQLXKp Germany 113 Small-Pox NO
+228 rdtZGkHlK YPyJKvw Iceland 113 Hepatitis-A NO
+736 kLbdMwpYmH Ekx Greece 113 Ebola NO
+140 fbmpxMaLXc obVXcf Russia 62 Common-Flu YES 10-03-2002
+427 oKmZmtWusgPF xJZsIKJkMfC Sweden 62 Ebola NO
+179 FNnnEI nKphL Spain 48 COVID-18 YES 11-11-1980
+134 rWXPSBXBeXt sSQI Greece 48 Rabies NO
+723 SyRJtab AuguBdQivl Sweden 48 Common-Flu NO
+151 nmIAQABwWPlA eSGZJhS Spain 57 Small-Pox YES 18-06-1965
+62 KBQgChuWyHC imMYSmgb UK 57 Hepatitis-B NO
+119 bzC kKN Germany 19 Small-Pox YES 07-08-2014
+974 RftdbRhOIRw kLPr Greece 19 Boubonic-Plague NO
+784 AacrTEcfwlSP rRvV Spain 19 HIV NO
+751 GbXsMQwKi ufekWT Norway 19 Hepatitis-A NO
+631 NEmEoja STSsrFvCxZeh Germany 19 Common-Flu NO
+611 rHcoN SqkVCVKc UK 19 H1N1 NO
+96 yuPwyx Uda Greece 19 HIV NO
+45 kBRJML SMv Ireland 49 COVID-18 YES 06-02-2009
+267 sXrtBip apzPp France 91 HIV YES 11-08-1997
+324 NQVBZhP kVcQqMzUH France 91 Small-Pox NO
+867 pPcNPnwSiQZ DFQxZvnTSshL UK 91 HIV NO
+895 cxmHooqr oBkSpDDqe Italy 91 COVID-19 NO
+582 RXjeQyXYzAKM QzgJ Spain 108 COVID-18 YES 13-06-1988
+75 GqKzKCEOV ByvSGOcyViW Germany 8 H1N1 YES 09-05-2014
+847 YYSTBjt tRskYHtl Switcherland 56 COVID-18 YES 13-10-2017
+104 YAMwXKnQYi MDECfpVKzFrT Russia 40 Boubonic-Plague YES 03-05-1997
+276 fhbalqhNsjj LcLbLSiFh Russia 40 HIV NO
+289 UCuhyKx Wepq UK 17 Hepatitis-B YES 26-03-2009
+947 ZxIcRd hKeVf Sweden 27 HIV YES 07-04-2011
+467 mIIFsrwbU NRoLkkKhf Iceland 77 Boubonic-Plague YES 05-01-1965
+484 PMFjQThXv XykKwvIjG Sweden 77 HIV NO
+349 bXNkJI gHOPpdKvqgds Iceland 3 Hepatitis-B YES 11-04-2020
+934 SXYAMdIRPDk tFtMrQiGbc Russia 3 HIV NO
+792 BoUDJuHTSd eOpEDSVoBS Russia 15 H1N1 YES 06-10-2016
+601 neemZEBRmi lvTPDZnqbeb UK 15 Rabies NO
+147 xloFcY WpvT Germany 15 Rabies NO
+199 xOzEl QsCquw Italy 110 Ebola YES 01-09-1916
+797 cuncwSQPpnMR WuPwodEJO Germany 69 Ebola YES 10-09-1962
+769 AQsSACVYGha DguclpTVIoHX Italy 69 COVID-18 NO
+619 VDOMLAcQZI vKNHyMhKZJ Russia 69 Hepatitis-A NO
+990 hkgTiatSXq UgAwhJGJlqS Italy 69 Common-Flu NO
+755 vDsJPb sJyoRc Russia 7 H1N1 YES 11-06-2018
+498 tQaNtjGfd PRKTb UK 7 Hepatitis-B NO
+637 xfst iXXsunQCDmN Spain 7 Hepatitis-B NO
+585 sMUsVgK GhDi Sweden 7 Small-Pox NO
+376 HuCNOD wSmDbQqjh Switcherland 60 Hepatitis-B YES 16-09-2018
+718 XlvlII XvtCTztuno Iceland 104 Common-Flu YES 14-06-1945
+507 qtyNNMsb TOTwmSDJ Greece 104 Rabies NO
+436 apPyBUU JJkMHoG UK 104 H1N1 NO
+188 DZanMSxasx kKOJQACI Greece 104 H1N1 NO
+510 CRt RhcKsha Germany 85 Hepatitis-B YES 24-04-1973
+761 qlWJhQeu soDTSS UK 103 Boubonic-Plague YES 06-07-1965
+906 gmTxBRInd KGdjDz Germany 10 Small-Pox YES 05-06-2018
+446 yqlHOMES gJpmbMF Germany 102 Ebola YES 13-11-1981
+273 GVKUnR OvZuKb Norway 102 Rabies NO
+374 LlXqwmjtWQF pknD Spain 102 Rabies NO
+254 nrcU bbetHvGVQwg Sweden 22 COVID-19 YES 07-08-2005
+812 izcMTLDYod guIdh Russia 25 Common-Flu YES 01-10-2011
+200 aaCOgl Xlsy Germany 25 Common-Flu NO
+945 JKZAIofWu KJmgwkllrl Russia 25 H1N1 NO
+708 ComxHv cpWIwrtF Spain 109 Hepatitis-B YES 25-01-2006
+805 iBYIrKp ecNbpuJUEHy Greece 110 Common-Flu YES 27-01-1995
+826 CuyTvUCULnD tsfnG Sweden 110 H1N1 NO
+692 SVqAQ yFVKXrx France 110 Ebola NO
+565 SnOpK EZkc France 67 COVID-18 YES 24-05-1965
+497 spCLYfdA VyXYmhJnGLy Norway 102 H1N1 YES 07-03-1973
+361 fJEehdLQNFM UphGSTDNyapm Italy 102 Small-Pox NO
+396 aWdSgNwtVPkD WXkWEE Russia 102 Common-Flu NO
+795 yqqKKzcTtm GQLenT Ireland 9 Rabies YES 02-11-2014
+182 hCKh akWa Russia 103 COVID-19 YES 17-06-1974
+11 ppYJjQWsCrU weexQD France 103 Ebola NO
+586 zUFXOgqNF wSGJGFoIm Ireland 103 Rabies NO
+127 rEFaYuUMk jEOr Greece 103 H1N1 NO
+323 sOhwH XvYqq Greece 103 Common-Flu NO
+840 febszHWE RgVIjpbhc Italy 103 Small-Pox NO
+954 bYxs TQLq Italy 94 H1N1 YES 20-09-1979
+570 klSICnTCFc LSGIpIPS France 94 HIV NO
+334 BGkf KjLagztsD Switcherland 94 COVID-19 NO
+274 IcFfapWfZERd LENG UK 62 Hepatitis-A YES 26-02-2011
+666 iKXk sDyTMDlYWkE Norway 63 Small-Pox YES 21-09-1970
+593 ylh sOyFJ Spain 63 Small-Pox NO
+996 ebH NmuOf Ireland 63 Small-Pox NO
+110 AZqkj EWbL Russia 16 Common-Flu YES 02-06-2010
+327 MjGKxw PvhPeKys Italy 120 HIV YES 22-09-2021
+208 inKLuEUB kbDbfZtIjlT UK 120 Small-Pox NO
+166 agp BZbVSUnDdrbW Sweden 35 Ebola YES 25-11-2014
+154 jXzZjUxD ZOoPjOLc Germany 35 Small-Pox NO
+455 VhwJ ORuDHIw UK 35 COVID-19 NO
+763 pGdIKbiIX TURuvNdwaBGZ Italy 35 Boubonic-Plague NO
+250 fAAVBsVhvwd RGZteAIZgw UK 71 COVID-19 YES 22-08-1984
+257 TcTQK aOqHToLNag Ireland 71 Hepatitis-A NO
+283 XnEAy fTKnDRhBjQrT Sweden 119 Common-Flu YES 13-12-1950
+705 qpgkaUWRVU mSsoU Iceland 52 HIV YES 24-11-2007
+960 TKIX DBGoKwBiMUL Norway 75 HIV YES 18-11-1953
+44 aqOPbW kYCGr UK 75 Common-Flu NO
+233 bcPnUKLd UBPVCs Germany 75 Small-Pox NO
+279 iNqLAlZfEXP RoL Russia 75 Ebola NO
+728 YYrLiDI wCZurTUlB France 75 Hepatitis-A NO
+238 elCIkVgP WXf Sweden 75 COVID-19 NO
+537 XKfiNuRq xsW Russia 60 COVID-18 YES 06-06-1982
+971 AuzuZopPn dRD Iceland 15 HIV YES 16-09-2020
+0 iMQ CcNNkKU UK 15 HIV NO
+73 DGjwiKKz ucuOOrmqFy Greece 15 Boubonic-Plague NO
+808 ILdFwmd mDSmu Switcherland 15 Hepatitis-A NO
+462 tHZUxILQ ZJRpmM Switcherland 15 Common-Flu NO
+950 WNeYE RywN Switcherland 15 H1N1 NO
+545 sohVYmmqkNU ljFUvL Norway 55 Boubonic-Plague YES 04-02-2009
+207 iKTFsoPzON dSrHCjpFZ France 115 Rabies YES 28-09-1966
+69 bidajPwkO fqSwmrV Switcherland 3 Boubonic-Plague YES 01-09-2018
+449 myVlF fIR Greece 3 Boubonic-Plague NO
+112 vmoDvRaVew XexdxQYoJYK Germany 6 Hepatitis-A YES 27-02-2017
+232 zxgyIYyvj qUqbClIX Ireland 6 Hepatitis-B NO
+893 QbYveaFGPy eGUsrPEemvu Russia 6 Rabies NO
+939 SzlaoRxlzPR xPsJx Switcherland 35 HIV YES 26-01-2008
+478 WTVAkknPck iJc Spain 8 H1N1 YES 28-11-2018
+744 YLwttaOymMh YksTVHOnIA Switcherland 78 Ebola YES 27-05-1992
+132 dkOAmEn ELqj Sweden 44 Common-Flu YES 07-03-1978
+240 dEdNFvY hukAXJYUx Italy 44 Hepatitis-A NO
+600 EnmYuHgpScB izazojpFdvsQ UK 23 Common-Flu YES 16-10-1998
+296 xWFM hgnyMJ Iceland 23 H1N1 NO
+185 hKgQYBY sNa Germany 71 Ebola YES 24-09-1968
+461 NUamsPQXP OGfuT Sweden 71 Boubonic-Plague NO
+480 BCpJKClME lzVeGOmd Spain 71 Ebola NO
+483 TChESqZz PCl Italy 71 COVID-19 NO
+952 TdGFXLCSNNe JwOjslSM Italy 71 Boubonic-Plague NO
+307 hlIHJqxDgw Lwzga Norway 71 Rabies NO
+552 GuJGZXmFO aMfLsIl Iceland 71 H1N1 NO
+930 zheCR TPph Spain 49 Ebola YES 10-08-1996
+573 KmIIaBzQEtgI VuvuFWWjtyC UK 49 COVID-19 NO
+106 xCxI zOCgDKphKDx Spain 74 Rabies YES 25-01-2015
+486 OuhY VJGSgd France 74 Boubonic-Plague NO
+929 QLWNiffCrkqP QdVEvnDZ Italy 74 HIV NO
+674 fsXD YbDrvl Switcherland 80 H1N1 YES 06-08-1986
+858 eEKU QfzFJ Italy 80 Ebola NO
+953 WjKRpcGnjY aWGLcgb France 80 Boubonic-Plague NO
+237 sDllqp NqdhDhyX Russia 80 H1N1 NO
+776 yMHmhOZoLlc ezpcno Iceland 88 Ebola YES 08-08-2021
+379 xlIXzy atFiVXcZQ Sweden 97 Common-Flu YES 12-03-2018
+749 TGyCFdSvB zXHVrVPH Ireland 97 Common-Flu NO
+551 MDowDlEFfBwx JLxiOMUpS Germany 70 COVID-18 YES 02-06-1997
+704 cXp WbOeuoelf Sweden 70 HIV NO
+665 JTdjDVxnCA IwBDRzEvyB Sweden 67 HIV YES 07-12-1963
+503 rla fYVpPGZ Greece 83 H1N1 YES 24-03-1999
+668 EqaT wGIp France 110 COVID-18 YES 07-11-1915
+679 YQeRgk MbEjQhTA Germany 110 Common-Flu NO
+418 FuHaZNtOUH MOcruOvpMbOf Norway 110 Boubonic-Plague NO
+557 ABDEJnXJh dkud France 64 Ebola YES 20-08-1969
+543 tajSDxJ QuVTb Russia 120 Rabies YES 27-09-1979
+399 WflQubcnXVk HoEp Greece 120 Boubonic-Plague NO
+64 oKuQKYtkCsa CXgHPCv France 1 Ebola YES 02-03-2020
+202 EJelGjZqj wTJ Italy 111 Ebola YES 20-06-2002
+580 IgWZPTOKg FKQHal Russia 111 Common-Flu NO
+672 UzHKmLz SqAgXG Ireland 41 Common-Flu YES 06-11-2018
+485 IpHe tOBjItjpSV Switcherland 11 Hepatitis-B YES 28-10-2020
+167 IBdPtc HZw Germany 11 COVID-19 NO
+392 Asif pKVIZYvb UK 92 COVID-19 YES 28-08-1964
+806 DtdFNv yzSLp Greece 10 Boubonic-Plague YES 25-01-2016
+331 OSfmjLgbII WZAXUxWT Germany 33 COVID-19 YES 22-11-2007
+389 vGrzkeX gkLHdn Norway 44 Small-Pox YES 21-07-1996
+624 AKGcM vtXtvvHJVn Spain 32 HIV YES 24-03-2015
+822 tzEyQ gJaY Spain 34 Rabies YES 20-08-2003
+787 nBtMPJwMTd nYEic Iceland 52 COVID-19 YES 26-04-2019
+116 jwBimeweDRr KkPLW Italy 52 Boubonic-Plague NO
+815 MNw waUXFfxdq Ireland 52 Boubonic-Plague NO
+544 IKPHR PVFtGnggIB Greece 52 HIV NO
+448 gOlpgD Bjlcf Norway 52 COVID-18 NO
+287 QjtBiSLIyY vSzGWWoRv Ireland 98 Boubonic-Plague YES 21-06-1949
+345 MfsIjAVbLb bYOtLe Greece 117 H1N1 YES 12-06-1941
+159 Xpzoyat fdOTidUXO UK 39 Boubonic-Plague YES 28-10-1993
+609 HlYDeDXWX ImqPacSF Sweden 40 Boubonic-Plague YES 16-06-2005
+785 rqMq oQAbB Ireland 40 HIV NO
+316 sheyNeMUMZH BuwAjVbwPrb Iceland 9 Hepatitis-A YES 01-06-2012
+881 NdezcsOgBQUA voLf Sweden 14 COVID-18 YES 22-12-2015
+130 XpseyLiJqf jlpiKLu Greece 4 H1N1 YES 21-06-2019
+898 BiPkg TggY Norway 104 Boubonic-Plague YES 19-01-2014
+633 sMY oWQLNOKLa Norway 104 Small-Pox NO
+754 lCQxC RqdPUMheS Ireland 104 Small-Pox NO
+625 oRrYQYGYDhm uCguGGIj Russia 104 Hepatitis-B NO
+494 TdmrVqjHiFJR Mfz Spain 104 Common-Flu NO
+297 IIYkgCv YOwookoxyku Switcherland 104 Rabies NO
+635 qvwEcomTL Hloj Ireland 104 Rabies NO
+495 DPlJi aEySdsLXlrq Norway 104 Hepatitis-B NO
+268 emzpIpOuTpi WDUObwQtFKuZ Norway 83 Rabies YES 18-03-1970
+663 oLz WVDWuUU Spain 83 COVID-19 NO
+468 IohwVEm eHQzONBgk Russia 88 Rabies YES 03-01-1971
+778 RaBFtOXw dnjKGt Sweden 120 Rabies YES 07-12-1938
+642 gHz WBCOSvkC France 96 Hepatitis-B YES 21-01-1931
+28 ukNJHiSHeZR BzX Germany 96 Rabies NO
+218 VLQZewh fMAtKUrENt Russia 96 Hepatitis-B NO
+530 dScCYhotd ryuYSsRZukp Switcherland 86 Hepatitis-A YES 24-08-1989
+538 qvysYrcRkgnU jqf Italy 16 Rabies YES 04-03-2015
+163 CGLgVV AzJkeHEV Norway 16 Ebola NO
+702 EcUZmZb miRa Italy 71 Rabies YES 25-07-1950
+817 yYd AYPBKBrcprT Sweden 64 COVID-19 YES 15-09-1982
+513 hov wkLZlyF Greece 71 Small-Pox YES 15-09-1959
+879 oJCcB YQxNcQWr Iceland 71 COVID-19 NO
+137 sHIvBrTT Pva Italy 71 Hepatitis-B NO
+738 wsBJEjfXez KayCitT Sweden 71 Rabies NO
+581 hQeARqU USez UK 60 COVID-18 YES 22-03-1991
+40 ZjGif PyUcbOfWqFj Switcherland 60 Hepatitis-B NO
+61 wesiEausyr yCA Spain 60 HIV NO
+90 jrNaSPsbmW dggDL Greece 37 HIV YES 26-07-2015
+4 sJugGDXjFCY cDZgsLAcrmfc Italy 37 COVID-19 NO
+750 XwtrkDvHbeZn cukczcfPnw Ireland 102 HIV YES 14-12-1988
+889 mZWcMXEy PetEBUeBM UK 102 Small-Pox NO
+294 ezp wpIaHktyPGF Germany 102 COVID-18 NO
+873 EkUv IOfclVQb Switcherland 102 Ebola NO
+647 PhbRFDNNu EVEubs Spain 110 Common-Flu YES 14-08-1998
+123 cBpRRehYFrT laYoztIfybeW Sweden 110 COVID-19 NO
+86 lIPdhD tBLDrdQLf Germany 4 COVID-18 YES 02-03-2018
+319 EzUIqhvWs hkrIkbWhJ Switcherland 4 Boubonic-Plague NO
+841 pLrIBilHk GEt Italy 3 HIV YES 07-03-2018
+948 tzk Kzw Switcherland 3 Hepatitis-B NO
+388 gZAkgT eXV Greece 3 Hepatitis-A NO
+774 cUROuRusUM BHAgSta Greece 9 Small-Pox YES 10-12-2012
+222 FPjrtN LAIplFWJCK Italy 9 H1N1 NO
+623 bqAcZ BtlMH Greece 16 Ebola YES 12-02-2011
+465 McnCecTJN nUoOTEPGE Sweden 16 Rabies NO
+629 Siy xqE Switcherland 79 Rabies YES 21-07-2017
+875 OZBszyTb BGzr France 6 Ebola YES 18-01-2016
+216 aQBaTCJBIkQ VWEeoIPwPos Switcherland 6 Rabies NO
+745 KGbUh RAsmEOTPyWx Switcherland 23 Ebola YES 14-06-2020
+742 IFD aVyPJ Switcherland 23 Hepatitis-A NO
+70 YWKQCPgrEzX QJXv Russia 23 Hepatitis-B NO
+12 KnSsgtXcWge AXjRiFCZpe Greece 59 H1N1 YES 23-08-1994
+34 txVcaTi iCWYR Germany 16 Hepatitis-B YES 26-09-2010
+576 ejntrcfh FUvVDPxlqBKd Russia 16 Ebola NO
+496 nNWcfL jcMgAm Norway 16 Boubonic-Plague NO
+19 katM mRePbzdO Spain 16 Ebola NO
+955 gKDgzWEDzuvA yKItD Russia 118 Hepatitis-B YES 20-10-1953
+725 nAbN tVB Switcherland 90 Common-Flu YES 12-08-1981
+312 VQeik FZRoaRXhKFC France 3 Small-Pox YES 09-09-2018
+282 OJYrVy rcrXJxmrbjIm UK 3 Hepatitis-A NO
+970 VglXLiZH kumGvEMaUtdO Switcherland 3 Small-Pox NO
+456 LMnbXFRGgbve tKsPHDj Spain 3 Rabies NO
+980 qtrArC jwBUtVO Norway 71 Hepatitis-B YES 27-03-1987
+135 yxTOsNaAjHuo RDzBVzHSSC UK 17 Boubonic-Plague YES 14-06-2013
+43 IDZvdfgZdeML KUDHXLJ UK 53 COVID-18 YES 10-12-1975
+335 sWzU ykltQgOOMk Russia 53 H1N1 NO
+214 agsnw HEIcFXfRj Greece 53 COVID-18 NO
+979 HizbeSl CBcqXXDscQE Norway 81 Rabies YES 18-08-2017
+724 MDsbEJjvtW wZi Italy 93 Common-Flu YES 26-01-1999
+949 IxYS QcBwoqRb Greece 93 COVID-18 NO
+85 HBmYXnqxWHj QlhYV Sweden 60 COVID-19 YES 28-06-2007
+230 RzVtMXFPAmF GQHvN Switcherland 58 Hepatitis-B YES 09-08-1978
+946 OUXty eidHaWFQs France 58 Small-Pox NO
+453 ZIF TqKT Sweden 58 Hepatitis-B YES 19-03-2014
+525 XDQeM VEWZbXtuwNCO Germany 109 Rabies YES 11-10-1942
+735 OxZpNdL RoQVAnijkBrl Sweden 116 HIV YES 11-02-1969
+622 qLVUUdJoxsE aCdoc Sweden 71 Small-Pox YES 17-08-1952
+985 LhWTVpbPNk nrTiEJ Greece 71 COVID-18 NO
+713 xGrGZxG obpq Italy 66 Common-Flu YES 12-11-1968
+53 eDiXM qXYnTqpgu Italy 28 Rabies YES 12-04-2019
+8 TUETKkXp FMTeGX Greece 69 Small-Pox YES 10-01-2014
+168 POWdBWbQkm BRPdo France 69 COVID-18 NO
+340 dhRJO YtlZxbc Iceland 106 COVID-19 YES 22-11-1937
+18 WKH ljjKajIZFnA Spain 106 Rabies NO
+814 ZHcncAxsRtH OTLANzhXi UK 106 Hepatitis-A NO
+57 pTWYOObx JDSoXRNez France 93 H1N1 YES 11-07-2011
+569 WTzDP eNkMH Russia 93 Rabies NO
+22 uybktFdr AcT Switcherland 93 Boubonic-Plague NO
+174 IVaQYwEzmME DyKhIvRhM Spain 93 Boubonic-Plague NO
+715 ydf VXh Italy 93 HIV NO
+891 uiZEJVN cBmnsd Spain 23 Hepatitis-A YES 20-02-2019
+384 zRYuhPMgfw qtW Germany 23 Ebola NO
+920 lwNamfJSxS isyOJI Sweden 33 Rabies YES 24-10-2002
+48 mQgFDgwWImV DeYQxHmW Norway 46 H1N1 YES 19-02-1995
+491 hJdRjrRs LWqZgv Spain 67 Small-Pox YES 01-01-1975
+654 cLVCSmCoac RnLXXDIUPzR Switcherland 67 Ebola NO
+919 azFvOBBSth nnmFYGKDp Russia 67 Rabies NO
+554 qDFuenF YweiNZ Russia 10 COVID-19 YES 21-11-2017
+401 cskqzGBpjRnq DSGSDGVl Switcherland 114 Hepatitis-A YES 03-08-2008
+558 iqDl rTBHAhW Greece 114 Hepatitis-A NO
+366 esBkDmgjyXYq LjveSLI Spain 114 COVID-18 NO
+529 cABza KcKcxEbxhzC Greece 114 Hepatitis-B NO
+416 RjFmxNRB fzVrPgD Iceland 114 H1N1 NO
+643 utHvnvlSYt zQDHzlVT Switcherland 114 Boubonic-Plague NO
+517 eZjppttcMPvZ FVtBs Sweden 91 Rabies YES 16-05-1982
+820 yjsEbtstsNX VzwCykTRIS Ireland 91 Boubonic-Plague NO
+79 LiWZkJn yEEq Iceland 91 Rabies NO
+865 ADoXUoVWQr krVTQqfnztxD Italy 91 H1N1 NO
+217 TcOIJ upSPYu UK 47 Boubonic-Plague YES 09-03-1977
+353 aTitoNziVPqQ uQrrvsyN Italy 6 COVID-19 YES 21-06-2020
+466 YEkxoOChmWTy kHHwCBIo Norway 6 Small-Pox NO
+260 diY MMvLRRI Germany 34 COVID-18 YES 02-02-2020
+852 lbTpSSwFhiy QpECntSuH Norway 115 Boubonic-Plague YES 27-02-1954
+831 wGxUS fpuY Italy 46 Small-Pox YES 23-10-1978
+992 EVjYyZ KHDHXWKXU Italy 46 Hepatitis-A NO
+245 vxSEajPrhb MbYZyIyZbtB France 46 COVID-19 NO
+634 QFfYyuv nrBduyPDDzQ Italy 46 Ebola NO
+883 RidIXiALqI pdo Spain 46 COVID-19 NO
+927 fhSHf gvhjAUnec UK 36 Small-Pox YES 07-09-2008
+170 HeIBVWjeZFmX hdcfHm Norway 36 COVID-18 NO
+383 Ccf CUUCRtXBhcD Greece 112 Small-Pox YES 19-03-2008
+420 EwhOO MlfQbL Ireland 5 COVID-19 YES 19-05-2016
+390 PVTKcPRsFSkX ietZqlegKHKt Greece 5 Boubonic-Plague NO
+400 FwogPcrRbd JhIbGd Sweden 5 Rabies NO
+224 hnh kmXRQ Spain 52 Boubonic-Plague YES 19-05-2000
+180 MHlKLIN UapMDXNDG Switcherland 16 Hepatitis-A YES 23-01-2021
+914 SFHEvM vXGMBd Norway 16 Small-Pox NO
+310 jZdWtyHWSv nXyG Italy 41 COVID-19 YES 24-03-2021
+243 QbbhP uQiosqjZHCr UK 41 Boubonic-Plague NO
+68 fDEoIgTq KzVzRemVZsBp UK 90 Hepatitis-A YES 23-03-1949
+936 bvUagQi hdAGso Spain 90 HIV NO
+359 wGdTDdyKH rjYkBKFq UK 120 COVID-19 YES 23-09-1994
+746 SRlJQCeD ECyzPJgmtKHX UK 92 HIV YES 11-07-1959
+291 cZxM AyPIrZcJOCe Iceland 77 H1N1 YES 02-02-1965
+613 CqlQEfihuoLh oggxGB Ireland 77 Boubonic-Plague NO
+377 XAgPYwzTxi dWzga Germany 55 COVID-19 YES 08-07-2013
+932 SPQcM QqgcOsW Spain 42 Hepatitis-B YES 16-05-2013
+304 zGzn MBAEZZwoObsd Italy 42 Common-Flu NO
+277 GZtstILzEQU oLOScyUOfJ Sweden 42 COVID-19 NO
+299 UHL DzSAjeJdg France 4 Common-Flu YES 15-11-2020
+782 xPqLNGv Iyi Norway 4 COVID-18 NO
+911 bTlnstKQ RGtWqERCoj Greece 61 Common-Flu YES 22-06-2001
+527 egxQTR DhNx Norway 120 Boubonic-Plague YES 07-09-1941
+475 oMWxUL JemrNG Switcherland 89 Hepatitis-B YES 13-07-2021
+986 pVMN HQtPZIAJgykO Russia 112 Boubonic-Plague YES 26-06-1990
+54 lDGwbxVtU yoUZbux Russia 112 Ebola NO
+541 zCiZy twx Spain 79 Rabies YES 11-05-1982
+76 TkU HCeOTf Germany 64 Ebola YES 10-04-1957
+26 aIJLZxLylz kRroKNTZT Spain 64 Hepatitis-B NO
+818 AIANBMh zgPOmBGuSzYj Spain 64 Rabies NO
+344 MqoyYEV pHQVyWCYCn Switcherland 64 Ebola NO
+720 FXrlgAVUHJqQ dkxybq Norway 98 Hepatitis-B YES 17-02-2018
+964 sxNsxgzkGylf soUK Ireland 119 Common-Flu YES 27-11-1931
+317 EQDJvZghp ZybbCaXlhy Sweden 119 Hepatitis-B NO
+562 JbycsVGemZw vPHvyEWckHh Iceland 11 Hepatitis-A YES 28-10-2018
+333 auDGRlWOBKL ATlEeRgdn Russia 11 Small-Pox NO
+791 bganPEF cKoWdQuy UK 86 Hepatitis-A YES 18-05-1939
+652 JhIC dPciV Sweden 106 HIV YES 07-09-2000
+133 xPtOEs gkGYHN Spain 106 COVID-18 NO
+326 SShjBaDE ZVb Italy 106 Rabies NO
+492 Gbkl SSJswtKha Switcherland 88 Common-Flu YES 23-08-1998
+733 ohkLO SpdfzIGM Spain 88 COVID-18 NO
+115 jSqoiOHF SgVcky Germany 88 Ebola NO
+516 yyBkNnQqIBx zKcbhmMlAGt Russia 69 COVID-18 YES 17-08-2016
+83 qYqr xJP Norway 58 Ebola YES 11-03-2008
+125 STDukrOA otb France 58 HIV NO
+191 dHUGMbY PJzaJ Italy 58 H1N1 NO
+272 umgfgoaui NfneygfK Russia 58 Hepatitis-A NO
+711 REo AguQPH Germany 58 Small-Pox NO
+599 jvazKoamnf XNk Germany 58 Boubonic-Plague NO
+709 rCtZPsNtMK EKHd Norway 58 COVID-19 NO
+962 wnJreS SqcVichL Norway 58 H1N1 NO
+855 PogbUnHrU xyYXapFpG Russia 58 H1N1 NO
+968 iLvugYmHT gJhxPITo Iceland 63 Hepatitis-A YES 25-02-1998
+148 FUnnfmME cgaZYwtJsF Sweden 63 HIV NO
+518 Fefm SMUTqgWnvGH Norway 103 Boubonic-Plague YES 25-07-1939
+71 nnZdC kxnJy France 103 H1N1 NO
+698 hRZD tfHpZhq UK 119 H1N1 YES 17-04-2000
+941 pNTmMouixh AyDPgQ Greece 109 Hepatitis-A YES 28-02-1972
+961 fxp onHpkLc France 64 H1N1 YES 07-10-1970
+246 hgeWDqFgBej RCSHyXR Norway 64 HIV NO
+253 GnDnsZJS PGWkjhc UK 81 HIV YES 08-08-1978
+760 AkCVLqdn ytTY Ireland 81 H1N1 NO
+786 VXfewkycnT pusOSLZUuVio Iceland 81 COVID-18 NO
+699 WxHbtU gYCEwKNHsuf Germany 103 COVID-19 YES 07-01-1919
+229 iDcpOxLKik BTiTxkYsMtEC France 103 COVID-19 NO
+251 khbZliEcGkb sNaJ Ireland 103 Common-Flu NO
+336 LxRZLr EEHV Spain 103 Small-Pox NO
+706 thyCDhXXhU LSyqEERA Germany 103 Small-Pox NO
+195 pUrMc JSfNWB Italy 9 Hepatitis-A YES 20-05-2014
+481 kZMF EKkiUbDtuVax Greece 9 COVID-19 NO
+50 draDhW QmCCySjd UK 116 COVID-18 YES 21-02-1909
+926 LXnQCvXjOM ybzv Russia 93 HIV YES 02-08-1963
+431 vqge Xusu Ireland 93 COVID-18 NO
+21 QLHlGrc GeUXT Greece 93 COVID-18 NO
+205 sMisRhsjz YchMYTscM France 66 COVID-18 YES 26-02-1976
+100 GpmREouIR TsuNS Sweden 57 Rabies YES 17-04-1986
+102 ZASHVxkStSYG udgrvcwmNPp Greece 73 HIV YES 22-01-1952
+258 HJDg xKwlm Spain 69 Small-Pox YES 14-02-1963
+912 ObY Iar Norway 69 Hepatitis-A NO
+193 wLGrYQTz krnkEVAsEqGX Ireland 69 Boubonic-Plague NO
+14 BOSWtRIrrbSg uWFuoadlQq Germany 69 Hepatitis-A NO
+559 tGmJhRIsaRA TifurklAYFE France 47 COVID-18 YES 10-10-2004
+404 mZdRncCnJyP uaIzyegmw France 47 Hepatitis-A NO
+869 PPAY LQnpbQbJi Switcherland 111 HIV YES 25-05-1987
+227 RdWNkOnKN WXhCibjjc France 111 Common-Flu NO
+298 eHJ YISgDrrJR Iceland 16 Hepatitis-B YES 19-09-2009
+183 ThQsBxb iSLUWFgIxs Spain 110 Common-Flu YES 12-12-1999
+433 MfDPVJU yHkBa UK 103 Small-Pox YES 27-08-1989
+303 QSIlk dHEoDttaSXUJ Germany 103 Ebola NO
+994 PzL IkSIany Greece 111 Hepatitis-B YES 16-03-1939
+280 AiykMY jTuu Ireland 75 COVID-19 YES 05-11-2000
+626 PJkEmPOZT QsAPt Sweden 75 COVID-19 NO
+464 ddTXJcFKknhp UtS France 16 COVID-18 YES 26-05-2013
+474 aabYctG JnkgIaU Switcherland 16 Common-Flu NO
+884 rnQbhUNkIc aup Spain 16 Hepatitis-A NO
+572 tfLXoI EbVUfXOG UK 15 Small-Pox YES 08-05-2006
+675 fLOzKL mkI Greece 47 H1N1 YES 17-05-1979
+997 DrBxMXDHI dYLPTJ Switcherland 47 Hepatitis-B NO
+802 rxk IfzIkIJcuUe France 47 COVID-18 NO
+959 BYFKORKt muxRNhYe Russia 47 COVID-19 NO
+88 SKrvBUH rzxsfhjQCODa Ireland 47 HIV NO
+203 LKmyG nTiMxakgtFp Switcherland 8 Boubonic-Plague YES 10-05-2014
+397 WzSHDNQqkMlw UQZRv Norway 8 Common-Flu NO
+94 pTI gGTWwc Iceland 77 Hepatitis-B YES 27-05-2018
+499 XkDTPrCOi ONVdRiBZck Italy 77 Small-Pox NO
+687 tpxEOPk BVPHtNl Greece 100 Hepatitis-A YES 24-04-2018
+553 iuC KdDgWecIIjBk UK 100 Ebola NO
+209 egUx ShoNC Spain 100 Ebola NO
+311 cMReiD uoOmZSG Norway 37 Common-Flu YES 22-07-1997
+719 UxM cdeAPvwU Russia 37 HIV NO
+308 YwuJdB jqwuyAEj Norway 37 Hepatitis-B NO
+17 mPOtyBcRMXfq CnFAFPV Sweden 37 Small-Pox NO
+424 uHJBrC NENAFMVSo Norway 37 Rabies NO
+535 nZkBMYEBWis rdt Greece 37 Ebola NO
+410 keFDDgzejf qhwNND UK 71 Rabies YES 20-06-1991
+519 zDRj DakmU France 71 Common-Flu NO
+487 Oba vpNkgJeD Russia 18 H1N1 YES 10-12-2014
+249 GNIj UYgHZbUUHLwD Greece 23 Rabies YES 05-05-2015
+512 MBCFfCeQ pxFxZiSYiTdL Iceland 23 COVID-19 NO
+488 Wka DFs France 96 COVID-18 YES 25-10-2015
+775 mWActA jDDEh France 44 Hepatitis-B YES 11-12-1998
+231 VHS vArXlPPjKVf Norway 44 Hepatitis-A NO
+942 OhA mfQUu Norway 69 Hepatitis-A YES 01-10-1970
+103 mvJwVcGfMC gkekKHxma Norway 103 Common-Flu YES 12-09-1955
+743 Vld mHRGneT Greece 103 H1N1 NO
+641 NbNFYU iWOukNcA Greece 8 Common-Flu YES 21-04-2015
+767 lUJ RcJABjDNjM Norway 90 Rabies YES 01-10-1944
+5 keEMbHNsPH kAOrLkjnWD France 90 H1N1 NO
+373 KUrdypWZP nWlAcopnQI UK 96 Small-Pox YES 08-08-1941
+794 sbVxbevorTyQ GQtNgoa Switcherland 113 COVID-18 YES 27-01-1934
+87 Qch cMdXO Sweden 113 Boubonic-Plague NO
+212 BlYGCHHgvSw WXccIWx Ireland 61 Hepatitis-B YES 19-10-2019
+800 BBndUNh qSJGNdf Switcherland 66 COVID-19 YES 08-07-1999
+425 YzoRWpIQ SeWC UK 66 Hepatitis-B NO
+747 JKXZtKRckQYk WvJOUDl Ireland 66 HIV NO
+851 ZzgkylQ lvdtXFzVtfLh Germany 98 Common-Flu YES 25-01-1984
+729 NALBwQT MZlPhtJY Russia 77 COVID-18 YES 08-11-1976
+155 iGxeojaCkPlM wJQCzLUqZie Italy 77 HIV NO
+999 vbNQDQTbb fDidWBeaZ France 12 Common-Flu YES 19-08-2017
+160 VrvwNoSaz CINeuynpD Norway 12 Small-Pox NO
+264 KTYOjYcWCQii kqNMV Spain 109 HIV YES 17-05-1984
+111 cbLsDzwPWtOI ZNFQPnDMqT France 109 HIV NO
+117 WUE lorRsz Norway 109 Rabies NO
+7 rSIQ XSiOmf Ireland 109 Common-Flu NO
+732 JaUUzFqvlTM OtGhRBdEVlKX Iceland 109 Hepatitis-A NO
+602 kVtEIWZOG ypGGKK Spain 37 COVID-19 YES 23-10-2012
+58 dwOOgPlyIHHu agOZdnQIhw Spain 37 Small-Pox NO
+270 AXRwHS mGCBswR Russia 37 Rabies NO
+603 pVkolIRQ zjyFZJEle Sweden 37 Boubonic-Plague NO
+596 EMZ oCexyO Italy 37 HIV NO
+740 jcopKn MwrQDLCY France 37 Common-Flu NO
+821 erXSqlCi TpeVOPHDtM Sweden 37 Hepatitis-B NO
+915 RLf RrdB UK 16 COVID-19 YES 16-01-2015
+748 HBsE nvVdTOh Italy 16 Hepatitis-A NO
+489 ZsZmYTS HtbEcVLBZ UK 42 Common-Flu YES 27-08-2005
+378 MzXKjIq xvLw Switcherland 42 Common-Flu NO
+247 MNs Rgc UK 42 Rabies NO
+305 ddcGNk zBsVe Germany 112 Hepatitis-B YES 14-03-1957
+189 VcJrQ IqQkvZvxiT Russia 112 COVID-19 NO
+443 gDedw rzplzkTS Norway 86 COVID-18 YES 06-07-1976
+522 idWiWgfKhmBj SBbvzZV Russia 86 Rabies NO
+876 VaWEwvCZXa ayOnxaqh Sweden 86 Hepatitis-B NO
+905 wCYAvQsB FKZ Ireland 86 HIV NO
+13 jumI WBhzEGSdvOv France 86 COVID-18 NO
+309 BJgGBDNEIO QPkFWzVTI Italy 31 HIV YES 24-09-2017
+636 kAqcugViCGha VeN Spain 31 Ebola NO
+196 TwVlGZ MGxOQwD Sweden 73 Boubonic-Plague YES 04-10-1992
+620 IfTbNzxOLI HuoukIawszW Ireland 119 H1N1 YES 28-01-1986
+454 ENNqcdFy mFRcVwP UK 28 COVID-18 YES 12-11-2013
+670 PUREf tbW France 28 Small-Pox NO
+204 OyiREu LhO Italy 74 Ebola YES 16-02-1996
+144 tblCIRuTHh CTdJDjNSDAgp Greece 23 Boubonic-Plague YES 04-02-2007
+362 dviS DlCdJ Ireland 102 COVID-19 YES 22-08-1997
+788 SzddBkT MfbZxzLlnYH Greece 102 COVID-19 NO
+472 LnfBbWwW RaRi Italy 104 Hepatitis-B YES 06-05-1928
+683 tMQIRyCg plTrRMY UK 104 Boubonic-Plague NO
+998 KcAQl EEZIG Iceland 77 Small-Pox YES 07-04-2007
+963 tCdeeqb YKc France 26 Ebola YES 17-10-2016
+164 bHvWQpLHCq xxs UK 26 COVID-18 NO
+844 pwHQJK kciWUzCAgRT Switcherland 17 HIV YES 16-01-2021
+439 sHsAwJpQGW tHyxu France 17 H1N1 NO
+880 qyK btmddLUpwh Spain 42 Common-Flu YES 05-05-1984
+248 uVd XXqXWhxUUMUU Greece 52 Hepatitis-B YES 24-05-1980
+56 xOaZcvbn DgEzoH Germany 28 Hepatitis-A YES 14-01-2009
+346 omk hRKt Spain 28 HIV NO
+219 wvONONTLMRP ULrp Spain 28 H1N1 NO
+197 WGbMVXNSYi WZgrXqskSL Norway 95 Hepatitis-A YES 22-01-1938
+830 cawBHgSFXby DfcZZmaCfiWX Russia 95 Common-Flu NO
+703 SGucfetEjnRX YVqwkLMiMwW Norway 95 COVID-19 NO
+288 jCqIOkI JGto Iceland 95 HIV NO
+337 FsW TeNWNngdN Russia 95 HIV NO
+701 jOvcpFm dVWHbjB Sweden 89 Boubonic-Plague YES 07-08-1947
+951 WVvQOuqFM FvdLUdlc Sweden 57 H1N1 YES 14-12-1967
+868 ZmvOd ONeRH Norway 57 Ebola NO
+78 Jim XvN Norway 48 H1N1 YES 02-09-1985
+846 DEhh tXs Greece 48 Hepatitis-A NO
+804 xywkhTt XyjIHHTjFnzS UK 42 Ebola YES 13-09-2014
+391 PYNsUmnUznks KycgSDME France 120 COVID-19 YES 18-03-1905
+902 ZwseGxzvOQk gIbICEVNJtlO Italy 21 COVID-18 YES 05-03-2014
+861 yKqfTLWJe wKGneKLHJEN Spain 42 Common-Flu YES 10-01-2017
+29 ajWN gysgQbTE Germany 72 Ebola YES 19-12-2002
+978 SkPmwG qdMgzk Greece 72 Boubonic-Plague NO
+894 Wlgbk pda Ireland 57 HIV YES 15-04-1974
+646 cKJg rxYkLTTC France 60 H1N1 YES 09-01-2001
+790 BOTQ oyCppZW Germany 60 Common-Flu NO
+845 mvqKYvKqAvx esSzCwmLyNSJ Ireland 60 HIV NO
+74 PMmDpOA vRGGygmebUh Greece 51 Common-Flu YES 15-07-1987
+638 WZtZPSze HoAwukGPcMpz Spain 51 Boubonic-Plague NO
+664 orMT zaAToRm France 58 HIV YES 02-12-2009
+348 zHivFF zdjaxdngSOJX France 49 Rabies YES 17-04-2011
+358 bUEXz oIVWtc France 49 Hepatitis-B NO
+32 OHJtrBgKHDQ NRQaZauvVwnS Ireland 49 Boubonic-Plague NO
+935 CwKkDehyftnu yNsrhwbz Ireland 87 COVID-18 YES 07-04-1973
+184 sgdqwJIeJz bHpklzJtKz Spain 38 Rabies YES 26-10-2021
+415 mdZQyAZ XDgoNxs Germany 36 Hepatitis-B YES 18-07-1990
+759 iJboXj VDvgY Russia 85 Hepatitis-A YES 17-02-1968
+887 NIKySUimW TytrUzqpKJLr Sweden 85 COVID-18 NO
+671 TXG KsRqo Sweden 85 Small-Pox NO
+371 YhoDPzwTHjUH Xsm Iceland 79 H1N1 YES 19-06-1980
+176 dkakhjsOt dKThbqUArX UK 15 Common-Flu YES 26-04-2013
+731 BCtSTcs xmEQ Sweden 15 COVID-19 NO
+594 DjkLie zMDMRVRU Spain 27 Common-Flu YES 02-05-2011
+187 CPuUJlxaVy YyI UK 27 COVID-18 NO
+139 XCPR KsqXrQZMb Italy 23 Hepatitis-B YES 17-06-2000
+347 HGRLzWyEr XiIhfuC Greece 23 HIV NO
+694 xAIa xmIRQQ Italy 66 Hepatitis-B YES 07-12-1958
+922 tcTbPIm IwQXd Norway 66 COVID-19 NO
+550 unEZw naJBv Italy 76 Hepatitis-B YES 28-08-1968
+105 TcInjzCJhyZ lmD Germany 76 HIV NO
+610 EYSTGrRFK xlo Sweden 76 Hepatitis-B NO
+37 ZpXWWXIMzH xiaMSgoTuHoC Italy 53 Common-Flu YES 13-08-2014
+598 mSDHpqhvYTR mXGLHCobwJjj Iceland 53 Hepatitis-A NO
+142 lsUTfarkEvhs JAbguxiwnk France 17 HIV YES 15-05-2019
+977 vEGBRgvMhpb iKl Russia 90 Hepatitis-B YES 14-09-1998
+165 gVkoP QEgPuvGbva UK 90 COVID-19 NO
+533 Mpyk ojxDVQxTm UK 90 Hepatitis-B NO
+141 VSHuMRgw VzcbsISREG Sweden 90 COVID-19 NO
+241 jfqIdtm RUamUBajOc Iceland 90 H1N1 NO
+813 pKH eUExYC France 90 H1N1 NO
+838 EBPN UmNgWXTgSFB France 20 Small-Pox YES 08-09-2002
+173 gyrKqCAvr RkcUVIyjTd Germany 39 Common-Flu YES 11-03-1993
+532 knKEPslT egtko Spain 39 COVID-18 NO
+6 jbHxPkz ooZkrpGRlsk Germany 39 COVID-18 NO
+781 bhWYk IXNZFQ Ireland 39 Hepatitis-B NO
+269 dCa sByyfEZApe Spain 44 Ebola YES 19-04-2015
+161 VuHEhDNHX GzAGLxLOshJN Iceland 84 Ebola YES 25-01-2010
+835 SEhnNH odbkpks UK 84 Hepatitis-A NO
+860 QYmpGseTAt iSTtSrqokNde Spain 84 Boubonic-Plague NO
+669 NdImr BQtPJqlrFe UK 10 Small-Pox YES 06-12-2017
+263 DNY CYLkTqmeL France 35 H1N1 YES 10-02-1999
+890 dHCIN kQx Spain 113 H1N1 YES 25-10-1947
+686 KJXsIrzQ Bwum UK 113 H1N1 NO
+122 qbx wISWtptCzd Greece 8 Small-Pox YES 27-10-2015
+313 vzxbHgARQIk NrtLjZm Greece 8 COVID-18 NO
+47 VOoGyiPrnWP DOnuQu Iceland 8 COVID-18 NO
+149 QtfkaGjYV RxzhgjT UK 9 Common-Flu YES 06-04-2015
+560 CExI iFeABttUT Sweden 45 COVID-19 YES 07-01-1998
+206 FKLTFVTMZRay YivxyLc Spain 86 Ebola YES 25-12-2002
+819 ESqCcpAjUOV QAmgKTHBTcTJ Switcherland 86 Hepatitis-B NO
+504 btwAxk FZI Spain 93 Hepatitis-A YES 15-10-1961
+897 VKCrbSVokgF RIExi Greece 93 Rabies NO
+681 efDvyJQRAgqG rsCOMMRVt Iceland 93 COVID-18 NO
+882 nAKP VxvWHKPOI Italy 93 COVID-19 NO
+874 ZDIdIrBrdTC XWjcl Russia 16 COVID-18 YES 11-04-2006
+854 aRugWXEl AeN France 102 Ebola YES 06-10-1953
+367 XXfjr XKXoCQk UK 102 COVID-18 NO
+825 FqkEV UGXMiTQ Italy 102 Boubonic-Plague NO
+828 yKadQaPPctN OZdVUm Iceland 37 Hepatitis-B YES 25-04-1994
+158 veNuccujLQ PFWUZ Sweden 37 Ebola NO
+589 xkYurfZK CvHUOhNmyS Germany 89 H1N1 YES 22-03-1989
+394 oYrASqLpR Qne Spain 89 COVID-19 NO
+121 ofDUfJPQSe FsFcZt UK 89 H1N1 NO
+476 xwjmapTN CNpHCrGt Iceland 25 Hepatitis-A YES 21-10-2010
+375 uxFnURGP qca Italy 25 Common-Flu NO
+849 WhdLI NYdoWLsP Greece 25 Common-Flu NO
+872 oYbeiBGFRcik ZTgC Russia 83 Hepatitis-B YES 17-08-1999
+128 WZdMkOeWIV tBwxINNmDYM Russia 74 Boubonic-Plague YES 26-07-1959
+693 aaXuAJ bSiULbM Spain 42 Ebola YES 11-04-2015
+211 PkPmc BSB Russia 42 HIV NO
+966 bltnHr BMiMQ Ireland 42 Boubonic-Plague NO
+916 oOiOPm ggOIzhzij Switcherland 120 Ebola YES 27-10-1999
+969 qgFpIcntrH mRatKBe Sweden 120 Hepatitis-A NO
+834 DEXWKRk KhDyobOYxX Iceland 120 Rabies NO
+918 eRkTvwW zDHHIuGBKdM Norway 84 Hepatitis-B YES 03-07-2013
+658 cQs moZYDIDhkdTW Germany 75 Ebola YES 18-09-2013
+944 GifjUWnopg mDIgdtJKeJq France 34 Boubonic-Plague YES 01-02-1993
+479 HjczEMQwoG cfjKPEKd Russia 118 Hepatitis-B YES 28-05-1914
+25 hbXgUIvmbD LEsQwZz France 118 H1N1 NO
+908 Dmo kHqtYvxwelAV Spain 118 Small-Pox NO
+660 WcEaWqgGvsMU USvtgLaNz Germany 118 Boubonic-Plague NO
+355 NYfImCsGUys ITpce Sweden 5 H1N1 YES 25-01-2017
+801 JQg eHxM Greece 72 COVID-19 YES 10-07-1976
+445 KNQli NXF Spain 22 COVID-19 YES 25-07-2013
+653 tObg cmfPSxQ Ireland 64 Common-Flu YES 03-03-1965
+49 BQFVbTsHuD FCSfieWWLh UK 64 Rabies NO
+770 AxsEATXSHS XQVeAxjgEKX Italy 4 COVID-18 YES 02-07-2018
+406 OzevVfp peNzs Italy 4 Ebola NO
+836 glGNjF bvIvSggU Norway 23 Hepatitis-A YES 22-09-2008
+320 rKr EVQyUieMzo Sweden 23 HIV NO
+524 rHLLY vsiYcB Sweden 23 Hepatitis-B NO
+171 nUcpK haWEAwmc Greece 9 Small-Pox YES 19-06-2013
+575 LBTlIqRwmxy uwbMJr Germany 88 Hepatitis-B YES 10-10-1964
+16 pbLdieH SppJldu Sweden 88 COVID-18 NO
+981 UYLjCUz LiSu Ireland 93 Common-Flu YES 07-08-1953
+982 JGL eGvfckTFGEOZ France 93 H1N1 NO
+80 McLcuxRKc ZWqFA Germany 72 HIV YES 22-08-1977
+521 IoQK jGTHlXO Italy 72 Ebola NO
+632 aEtwsoIIR uROEpWogBGB Spain 72 Hepatitis-B NO
+857 bXD dehFBAB UK 72 HIV NO
+477 stvGjthXXTH bvwTauuCx Norway 72 Small-Pox NO
+597 IxYVHztpGvbd ERc Sweden 72 COVID-18 NO
+958 YVDGfpluEr mXuRqsqcY Greece 117 HIV YES 07-02-1986
+146 azvfMobEhOI aIezmMlfCgx Ireland 117 Hepatitis-B NO
+829 iToYWBdVjacL ZcdW UK 117 COVID-19 YES 04-10-2019
+549 yHjlchqYvU PqB Spain 117 Boubonic-Plague NO
+281 xlZiVnJG OHxVpfpCBjH Switcherland 117 Small-Pox NO
+577 tRQhVtDjTAot kusCdStF Russia 117 Hepatitis-B NO
+651 QCMvPNmPaLFI EPbuKX Germany 51 Ebola YES 11-06-2018
+716 rDhNZlZgfFmm XeGs Norway 41 Hepatitis-B YES 22-03-1986
+689 qzkOU FkmjN Sweden 48 Ebola YES 21-09-1983
+615 vuH IpOoL Iceland 48 Common-Flu NO
+896 GxsLM UHKWbo UK 118 COVID-18 YES 22-03-1961
+644 BnNJ jwuDYzd Italy 15 Common-Flu YES 19-11-2013
+328 yZZYBeIy KUJZJBZxhnsV Sweden 62 H1N1 YES 21-07-2001
+242 OdiwHjnPPWYz EfsOGHBxdV France 1 Boubonic-Plague YES 17-09-2021
+734 EkmR rSuvHohCox France 1 Small-Pox NO
+63 gzlpe OoxYsp Norway 1 COVID-19 NO
+607 jxilFLm gmAMLW Iceland 53 Hepatitis-B YES 08-12-1986
+412 IzVrEHbMXTw UloIBnE UK 80 COVID-18 YES 08-10-1958
+878 sxYCcGSdx UrqMWdp Italy 80 COVID-19 NO
+528 JbfGqpGR aXxcXk Italy 61 H1N1 YES 16-09-1994
+508 kOkmbSWSAeD hjjLAp Norway 15 Boubonic-Plague YES 10-09-2013
+871 qeeFVYOrj jxNuBFR Italy 15 Common-Flu NO
+514 kWTaabw bZHuU Germany 47 HIV YES 03-08-2000
+583 QDqovde vPGGo Russia 47 H1N1 NO
+989 Fyl goDA Spain 11 COVID-18 YES 10-08-2015
+617 HPHDwf ONdRAOXYkEF Italy 58 Hepatitis-B YES 07-07-1984
+967 OtLbqqsOiqV BVktkZo Iceland 58 Hepatitis-A NO
+444 TvjdcAWHlvhC mZbAOhKk Italy 58 H1N1 NO
+370 UMfUMD mearTKaFV Sweden 58 HIV NO
+306 WGNArSZnSh aKyKXVyalfKp France 15 COVID-19 YES 11-11-2015
+153 JDP ckOEPZZmq Germany 63 COVID-19 YES 16-11-1978

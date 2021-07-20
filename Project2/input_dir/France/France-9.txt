@@ -1,0 +1,9 @@
+351 DiiNizSKdAy GWHspgCMp France 91 HIV NO
+131 jVzNUkrkYTn DzfaKUITqbV France 59 H1N1 YES 07-05-1975
+639 ZvgKwLCkRZog rlPlqdP France 11 Hepatitis-A NO
+692 SVqAQ yFVKXrx France 110 Ebola NO
+64 oKuQKYtkCsa CXgHPCv France 1 Ebola YES 02-03-2020
+71 nnZdC kxnJy France 103 H1N1 NO
+488 Wka DFs France 96 COVID-18 YES 25-10-2015
+391 PYNsUmnUznks KycgSDME France 120 COVID-19 YES 18-03-1905
+944 GifjUWnopg mDIgdtJKeJq France 34 Boubonic-Plague YES 01-02-1993

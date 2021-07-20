@@ -1,5 +1,4 @@
 #Aristi Papastavrou
-#1115201800154
 MAKE-DIR = $(PWD)
 
 SRC := $(MAKE-DIR)/src

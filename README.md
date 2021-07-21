@@ -2,6 +2,9 @@
 Vaccine Monitor app implemented in C with system Programming techniques.Projects implemented as part of the course Syspro K24
  
 ## Project 1
+
+**Vaccine Monitor app created using data structures in C, like bloom filter, linear probing hashtable, linked lists,skip lists etc.**
+
 ### Create input dir:
 ```bash
 bash testFile.sh info/virusesFile.txt info/countriesFile.txt input_dir x y
@@ -29,6 +32,9 @@ valgrind --leak-check=full ./vaccineMonitor -c input_dir/inputFile.txt -b blooms
 ```
 
 ## Project 2
+
+**Based on the 1st project we go one step further and we implement the app using signal handlers and named pipes**
+
 ### Create input dir:
 ```bash
 bash ./create_infiles.sh input_dir/inputFile.txt input_dir2 numfiles
@@ -56,6 +62,9 @@ valgrind --leak-check=full --show-leak-kinds=all --trace-children=yes -s ./trave
 ```
 
 ## Project 3
+
+**Last version of the Vaccine Monitor app.Based on the structure of the 1st project, the app is now implemented based on the concept of "one client - multiple servers " using sockets and threads**
+
 ### Create input dir:
 ```bash
 bash ./create_infiles.sh input_dir/inputFile.txt input_dir2 numfiles
